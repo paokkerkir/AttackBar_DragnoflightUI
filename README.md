@@ -15,3 +15,5 @@ Changelog:
 v5.0.7 -> Mongoose Bite now resets the attack bar.
 v5.0.8 -> Added total attack speed on bar.
 v5.0.9 -> Added Dragonflight UI
+
+Credits: Oshire for bugfix
