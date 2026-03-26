@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: AttackBar |cff7fff7f TurtleWOW|r
+## Title: AttackBar_DragonflightUI |cff7fff7f TurtleWOW|r
 ## Version: 5.0.9
 ## Author: Sivent, paokkerkir
 ## LegacyAuthor: Udokus
